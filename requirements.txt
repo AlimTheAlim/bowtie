@@ -5,3 +5,10 @@ torch
 torchvision
 numpy
 matplotlib
+pillow
+pandas
+openpyxl
+scikit-learn
+albumentations
+opencv-python
+tqdm
