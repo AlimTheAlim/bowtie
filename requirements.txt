@@ -1,0 +1,7 @@
+# requirements.txt
+# Python 3.10+ recommended
+
+torch
+torchvision
+numpy
+matplotli
