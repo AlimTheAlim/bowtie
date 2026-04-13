@@ -1,8 +1,7 @@
 1) Install
 pip install -r requirements.txt
 
-requirements.txt currently lists torch, torchvision, and numpy, but matplotlib looks misspelled as matplotli, so install that manually if needed.
-
+requirements.txt currently lists torch, torchvision, and numpy, matplotlib 
 2) Expected dataset format
 
 Your training/eval code expects this folder structure:
